@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5ce58a98b5579dc8f2e7ccd47fea5a1053b95ef6",
+    "author": "Amanda Rehbein <amanda.rehbein@usp.br>",
+    "time": "2020-12-09 15:12:55",
+    "files": 1,
+    "merge": false,
+    "message": "Fixing #37 adding encoding default UTF-8 at httr::content\n"
+  },
+  "repo": "https://github.com/ropensci/rWBclimate",
+  "pkg": "rWBclimate"
+}
